@@ -17,7 +17,7 @@ This document provides simple, clear, and detailed explanations of key concepts 
 
 A RAG system works in two main phases: the preparation phase (indexing) and the answering phase (querying). Think of it like building a library (indexing) and then using that library to answer questions (querying).
 
-### Indexing Phase (Building the Knowledge Base)
+### Indexing Phase
 
 #### Data Ingestion
 - Raw data comes from various sources – PDF documents, web pages, databases, emails, or any text-containing files.
@@ -44,7 +44,7 @@ A RAG system works in two main phases: the preparation phase (indexing) and the 
 - The database creates an index structure (like HNSW or IVF) that allows for fast searching even with millions of vectors.
 - The system also stores metadata alongside each vector for filtering capabilities.
 
-### Querying Phase (Answering Questions)
+### Querying/Prompting Phase
 
 #### Retrieval
 - When a user asks a question, the system converts it into a vector using the same embedding model.

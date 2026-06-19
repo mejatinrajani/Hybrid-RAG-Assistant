@@ -10,6 +10,15 @@ A Retrieval-Augmented Generation (RAG) system built with Streamlit that uses adv
 - **Interactive UI**: Built with Streamlit for easy interaction
 - **Diagnostic Tools**: Real-time pipeline diagnostics and retrieval transparency
 
+
+## Getting Started
+
+See [SETUP.md](SETUP.md) for quick setup instructions.
+
+## Assignment Answers
+
+See [Answers-for-the-Part-A.md](Answers-for-the-Part-A.md) for the answers of the questions asked in the provided pdf.
+
 ## Project Structure
 
 ```
@@ -37,9 +46,6 @@ A Retrieval-Augmented Generation (RAG) system built with Streamlit that uses adv
 - **Embeddings**: all-MiniLM-L6-v2
 - **Language**: Python 3.8+
 
-## Getting Started
-
-See [SETUP.md](SETUP.md) for quick setup instructions.
 
 ## API Keys
 

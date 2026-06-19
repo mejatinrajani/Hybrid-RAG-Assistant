@@ -19,6 +19,7 @@ See [SETUP.md](SETUP.md) for quick setup instructions.
 
 See [Answers-for-the-Part-A.md](Answers-for-the-Part-A.md) for the answers of the questions asked in the provided pdf.
 
+---
 ## Project Structure
 
 ```
